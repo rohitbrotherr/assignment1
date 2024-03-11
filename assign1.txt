@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    (1)
+    <!--question no.1-->
+    <p><b>This text will be bolded</b></p><!--bold text-->
+    <P><i>This text will be italic</i></P><!--italic text-->
+    <p><u>This text will be underlined</u></p><!--underline text-->
+    <p><mark>This text will be highlighted </mark></p><!--highlight text-->
+    <p>This is normal text<sup>This will be super scripted</sup>This is normal again</p><!--sup tag-->
+    <p>This is normal text<sub>This text will be subscripted</sub></p><!--sub tag-->
+    <p><del>This text will be deleted</del></p><!--del tag-->
+    (2)
+    <br>
+    <table border="2">
+        <thead>
+        <tr>
+            <th>SI NO.</th>
+            <th>NAME</th>
+            <th>COURSE</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Aarav sharma</td>
+            <td>FSWD</td>
+            <td>aarav.sharma@gmail.com</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Diya Patel</td>
+            <td>FSDS</td>
+            <td>diya.patel@gmail.com</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Aryan Singh</td>
+            <td>DSA with JAVA</td>
+            <td>aryan.singh@gmail.com</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Avni Gupta</td>
+            <td>FSWD</td>
+            <td>avni.gupta@gmail.com</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Rohan Gupta</td>
+            <td>FSDS</td>
+            <td>rohan.mehta@gmail.com</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Prisha Verma</td>
+            <td>DSA with JAVA</td>
+            <td>prisha.verma@gmail.com</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Arnav Choudhary</td>
+            <td>FSWD</td>
+            <td>arnav.choudhary@gmail.com</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Ishaan Patel</td>
+            <td>FSDS</td>
+            <td>ishan.patel@gmail.com</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Siya Singh</td>
+            <td>DSA with JAVA</td>
+            <td>siya.singh@gmail.com</td>
+        </tr>
+    </tbody>
+    </table>
+    <br>
+    (3)
+    <br>
+    <table border="2">
+        <tbody>
+            <tr>
+                <td>Product</td>
+                <td colspan="2">Flavours & Quantity</td>
+            </tr>
+            <tr>
+                <td colspan="3">Dairy</td>
+            </tr>
+            <tr>
+                <td rowspan="3">Ice Cream</td>
+                <td>Vanilla</td>
+                <td>500g</td>
+            </tr>
+            <tr>
+                <td>Chocolate</td>
+                <td>250kg</td>
+            </tr>
+            <tr>
+                <td>Butter Scotch</td>
+                <td>1kg</td>
+            </tr>
+            <tr>
+                <td colspan="3">Beverages</td>
+            </tr>
+            <tr>
+                <td rowspan="3">Soda</td>
+              <td>Cola</td>
+              <td>0.5L</td>
+              <tr>
+                <td>orange</td>
+                <td>1L</td>
+              </tr>
+              <tr>
+                <td>Lime</td>
+                <td>2L</td>
+              </tr>
+                
+            </tr>
+           
+        </tbody>
+    </table>
+    
+
+    
+
+</body>
+</html>
